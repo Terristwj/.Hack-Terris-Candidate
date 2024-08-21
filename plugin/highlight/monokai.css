@@ -10,62 +10,42 @@ Monokai style - ported by Luigi Maselli - http://grigio.org
     color: #ddd;
 }
 
-.hljs-tag,
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-strong,
-.hljs-name {
-    color: #f92672;
+.hljs-white {
+    color: white !important;
 }
 
-.hljs-code {
-    color: #66d9ef;
+.hljs-black {
+    color: black !important;
 }
 
-.hljs-class .hljs-title {
-    color: white;
+.hljs-danger {
+    color: #f92672 !important;
 }
 
-.hljs-attribute,
-.hljs-symbol,
-.hljs-regexp,
-.hljs-link {
-    color: #bf79db;
+.hljs-sky {
+    color: #83eeff !important;
 }
 
-.hljs-string,
-.hljs-bullet,
-.hljs-subst,
-.hljs-title,
-.hljs-section,
-.hljs-emphasis,
-.hljs-type,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-addition,
-.hljs-variable,
-.hljs-template-tag,
-.hljs-template-variable {
-    color: #a6e22e;
+.hljs-marine {
+    color: #42affa !important;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-deletion,
-.hljs-meta {
-    color: #75715e;
+.hljs-leaf {
+    color: #a6e22e !important;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-doctag,
-.hljs-title,
-.hljs-section,
-.hljs-type,
-.hljs-selector-id {
-    font-weight: bold;
+.hljs-purple {
+    color: #bf79db !important;
+}
+
+.hljs-pink {
+    color: #f92672 !important;
+}
+
+.hljs-comment {
+    color: #75715e !important;
+}
+
+.hljs-keyword {
+    font-weight: bold !important;
 }
